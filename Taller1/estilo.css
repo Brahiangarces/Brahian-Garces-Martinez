@@ -1,0 +1,34 @@
+
+body {
+    font-family: Arial, Verdana, sans-serif; /* Usa una fuente sans-serif moderna */
+}
+.inicio {
+     background-image: url(paisaje1.jpg);
+    height: 300px;
+
+    max-width: 1330px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 130px;
+  
+}
+.Menu2 button1 {
+    margin-left: 20px; 
+    width: 120px;
+    height: 30px;
+    border: 2px solid red;
+    color: rgb(228, 21, 21); 
+}
+
+.Menu2 h2 {
+    margin-left: 20px; 
+}
+.Menu2 p {
+    margin-left: 20px; 
+}
+.Menu2 button {
+    margin-left: 20px; 
+    width: 120px;
+    height: 30px;
+    border: 2px solid red;
+}
